@@ -51,7 +51,7 @@ To get started with the project locally, follow these steps:
 
 3. Open the `index.html` file in your preferred web browser to view the website.
 
-## Contributing
+## Contributions
 
 If you would like to contribute to this project, please follow these steps:
 
