@@ -7,35 +7,22 @@ Welcome to the Apple Vision Pro GitHub repository! This project is a website tha
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
+
+![apv demo](https://github.com/Anandini18/apple_vision_pro_clone/assets/88365547/92ba461c-d43c-4824-9af5-69f909939f9f)
+
 
 Check out the live demo of Apple Vision Pro [here](https://example.com/apple-vision-pro).
 
 ## Features
 
-### Interactive and Engaging User Interface
-
-The website offers an interactive and engaging user interface to keep visitors engaged. It utilizes modern design principles to create an attractive and intuitive layout.
-
-### Smooth Animations Powered by GSAP
-
-GSAP (GreenSock Animation Platform) is used to create smooth and eye-catching animations throughout the website. These animations not only enhance the visual appeal but also provide a seamless user experience.
-
-### Responsive Design for Various Screen Sizes
-
-The website is designed to be responsive, ensuring that it looks and works well on a wide range of devices and screen sizes, including desktops, tablets, and smartphones.
-
-### Informative Sections about Apple Vision Pro
-
-Discover the key features and benefits of Apple Vision Pro through informative sections that provide detailed information about the product. Users can learn about its capabilities and how it can benefit them.
-
-### Integration with Locomotive Scroll for Smooth Scrolling Effects
-
-Locomotive Scroll is integrated into the website to provide smooth and elegant scrolling effects. This enhances the overall user experience by adding a touch of sophistication to the navigation.
+- Interactive and engaging user interface.
+- Smooth animations powered by GSAP.
+- Responsive design for various screen sizes.
+- Informative sections about Apple Vision Pro.
+- Integration with Locomotive Scroll for smooth scrolling effects.
 
 ## Getting Started
 
@@ -54,18 +41,6 @@ To get started with the project locally, follow these steps:
    ```
 
 3. Open the `index.html` file in your preferred web browser to view the website.
-
-## Usage
-
-You are welcome to use, modify, and customize this project for your needs. If you want to make changes, here are some guidelines:
-
-1. Customize the content in the HTML files to reflect your own product or project.
-
-2. Modify the CSS styles in the `styles.css` file to match your branding and design preferences.
-
-3. You can update the animations or create new ones using GSAP by editing the JavaScript code in the `script.js` file.
-
-4. If you have specific requirements for Locomotive Scroll, refer to the [Locomotive Scroll documentation](https://github.com/your-username/locomotive-scroll) for customization options.
 
 ## Contributing
 
@@ -90,10 +65,6 @@ If you would like to contribute to this project, please follow these steps:
 5. Create a pull request from your forked repository to this main repository.
 
 6. Describe your changes and the problem they solve in the pull request description.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
