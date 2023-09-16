@@ -2,6 +2,8 @@
 
 Welcome to the Apple Vision Pro GitHub repository! This project is a website that showcases the features and benefits of Apple Vision Pro using HTML, CSS, JavaScript, and GSAP. The website is designed to provide an interactive and engaging user experience with smooth animations and responsive design. It also integrates with Locomotive Scroll for a seamless scrolling experience.
 
+---
+
 ## Table of Contents
 
 - [Demo](#demo)
@@ -10,12 +12,16 @@ Welcome to the Apple Vision Pro GitHub repository! This project is a website tha
 - [Getting Started](#getting-started)
 - [Contributions](#contributions)
 
+---
+
 ## Demo
 
 ![apv demo](https://github.com/Anandini18/apple_vision_pro_clone/assets/88365547/92ba461c-d43c-4824-9af5-69f909939f9f)
 
 
 Check out the live demo of Apple Vision Pro [here](https://anandini18.github.io/apple_vision_pro_clone/).
+
+---
 
 ## Technologies Used
 
@@ -25,6 +31,8 @@ Check out the live demo of Apple Vision Pro [here](https://anandini18.github.io/
 - [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
 - [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)
 
+---
+
 ## Features
 
 - Interactive and engaging user interface.
@@ -32,6 +40,8 @@ Check out the live demo of Apple Vision Pro [here](https://anandini18.github.io/
 - Responsive design for various screen sizes.
 - Informative sections about Apple Vision Pro.
 - Integration with Locomotive Scroll for smooth scrolling effects.
+
+---
 
 ## Getting Started
 
@@ -50,6 +60,8 @@ To get started with the project locally, follow these steps:
    ```
 
 3. Open the `index.html` file in your preferred web browser to view the website.
+
+---
 
 ## Contributions
 
