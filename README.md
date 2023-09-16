@@ -8,7 +8,7 @@ Welcome to the Apple Vision Pro GitHub repository! This project is a website tha
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Contributions](#contributions)
 
 ## Demo
 
