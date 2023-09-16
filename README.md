@@ -5,6 +5,7 @@ Welcome to the Apple Vision Pro GitHub repository! This project is a website tha
 ## Table of Contents
 
 - [Demo](#demo)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -15,6 +16,14 @@ Welcome to the Apple Vision Pro GitHub repository! This project is a website tha
 
 
 Check out the live demo of Apple Vision Pro [here](https://example.com/apple-vision-pro).
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
+- [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)
 
 ## Features
 
