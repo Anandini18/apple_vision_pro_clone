@@ -49,18 +49,8 @@ Check out the live demo of Apple Vision Pro [here](https://anandini18.github.io/
 
 To get started with the project locally, follow these steps:
 
-1. Clone this repository to your local machine using Git:
-
-   ```bash
-   git clone https://github.com/your-username/apple-vision-pro.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd apple-vision-pro
-   ```
-
+1. Clone this repository to your local machine using Git: `git clone https://github.com/your-username/apple-vision-pro.git`
+2. Navigate to the project directory:`cd apple-vision-pro`.
 3. Open the `index.html` file in your preferred web browser to view the website.
 
 ---
@@ -70,25 +60,13 @@ To get started with the project locally, follow these steps:
 If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository to your GitHub account.
-
-2. Create a new branch for your changes:
-
-   ```bash
-   git checkout -b feature/my-feature
-   ```
-
+2. Create a new branch for your changes: `git checkout -b feature/my-feature`
 3. Make your changes and commit them with descriptive commit messages.
-
-4. Push your changes to your forked repository:
-
-   ```bash
-   git push origin feature/my-feature
-   ```
-
+4. Push your changes to your forked repository: `git push origin feature/my-feature`.
 5. Create a pull request from your forked repository to this main repository.
-
 6. Describe your changes and the problem they solve in the pull request description.
 
 ---
 
-Thank you for checking out the Apple Vision Pro project! If you have any questions or feedback, feel free to reach out to us. We hope you find this project useful and inspiring for your own web development endeavors.
+Thank you for checking out the Apple Vision Pro project! If you have any questions or feedback, feel free to reach out to us. 
+We hope you find this project useful and inspiring for your own web development endeavors.
