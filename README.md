@@ -7,6 +7,7 @@ Welcome to the Apple Vision Pro GitHub repository! This project is a website tha
 ## Table of Contents
 
 - [Demo](#demo)
+- [Website Live Preview](#website-live-preview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -16,8 +17,9 @@ Welcome to the Apple Vision Pro GitHub repository! This project is a website tha
 
 ## Demo
 
-![apv demo](https://github.com/Anandini18/apple_vision_pro_clone/assets/88365547/92ba461c-d43c-4824-9af5-69f909939f9f)
+![apple-vision-pro-clone](https://github.com/Anandini18/apple_vision_pro_clone/assets/88365547/37305eed-5e9c-464c-adf9-854959b07297)
 
+### Website Live Preview
 
 Check out the live demo of Apple Vision Pro [here](https://anandini18.github.io/apple_vision_pro_clone/).
 
